@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Laravel and React Js**
 
-- 💬 Ask me about **Laravel, React Js**
-
 - 📫 How to reach me **andika0106dwiki@gmail.com**
 
 - ⚡ Fun fact **I am funny**
