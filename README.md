@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andika</h1>
 <h3 align="center">I am a web developer from Indonesia</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/media/a26e46eb4800c8991e14a6f6e32dba1e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andikadwikid&label=Profile%20views&color=0e75b6&style=flat" alt="andikadwikid" /> </p>
 
