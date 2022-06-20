@@ -1,6 +1,8 @@
 <!-- # Mabuhay! Welcome to my page! 👋 -->
 <img src='./github-header-banner.png' alt="banner"></img>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andikadwikid&label=Profile%20views&color=0e75b6&style=flat" alt="andikadwikid" /> </p>
+
 - 🌱 I’m currently learning **Laravel and React Js**
 
 - 📫 How to reach me **andika0106dwiki@gmail.com**
