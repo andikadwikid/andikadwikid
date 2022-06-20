@@ -20,7 +20,7 @@
 
 <span>
 
-![Andika's github stats](https://github-readme-stats.vercel.app/api?username=andikadwikid&theme=merko&layout=compact)
+![Andika's github stats](https://github-readme-stats.vercel.app/api?username=andikadwikid&theme=github_dark&layout=compact)
 
 ![Andika's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andikadwikid&layout=compact&theme=github_dark)
 
