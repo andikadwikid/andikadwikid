@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andikadwikid&label=Profile%20views&color=0e75b6&style=flat" alt="andikadwikid" /> </p>
 
-- 🔭 I’m currently working on **Ecommerce**
 
 - 🌱 I’m currently learning **Laravel and React Js**
 
