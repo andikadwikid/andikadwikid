@@ -1,6 +1,13 @@
 <!-- # Mabuhay! Welcome to my page! 👋 -->
 <img src='./github-header-banner.png' alt="banner"></img>
 
+- 🌱 I’m currently learning **Laravel and React Js**
+
+- 📫 How to reach me **andika0106dwiki@gmail.com**
+
+- ⚡ Fun fact **I am funny**
+
+
 📫 **How to reach me:**
 </br>
 <span>
