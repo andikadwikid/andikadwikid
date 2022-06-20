@@ -4,7 +4,6 @@
 📫 **How to reach me:**
 </br>
 <span>
-    <a href="https://codepen.io/tolentinoel" target="blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=green"/></a>
     <a href="mailto:tolentino.el@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/ellainet/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://dev.to/tolentinoel" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
