@@ -1,5 +1,5 @@
 <!-- # Mabuhay! Welcome to my page! 👋 -->
-<img src='./github_banner.png' alt="banner"></img>
+<img src='https://i.pinimg.com/originals/36/ab/ec/36abec89a7ce2c112a5c174152b4b561.gif' alt="banner"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andikadwikid&label=Profile%20views&color=0e75b6&style=flat" alt="andikadwikid" /> </p>
 <p>I am a proficient programmer in php and javascript. I started learning coding when I was 18 years old. I have experience using php framework (Laravel).</p>
