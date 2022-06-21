@@ -6,10 +6,6 @@
 
 - 🌱 I’m currently learning **Laravel and React Js**
 
-- 📫 How to reach me **andika0106dwiki@gmail.com**
-
-- ⚡ Fun fact **I am funny**
-
 
 📫 **How to reach me:**
 </br></br>
