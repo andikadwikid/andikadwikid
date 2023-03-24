@@ -9,15 +9,15 @@
 - 🌱 I’m currently learning **Laravel, Express Js and React Js**
 
 
-📫 **How to reach me:**
-</br></br>
-<span>
+<!-- 📫 **How to reach me:** -->
+<!-- </br></br> -->
+<!-- <span> -->
     <!-- <a href="https://www.instagram.com/andika.dwiki/" target="blank"><img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white"></a> -->
     <!-- <a href="https://www.linkedin.com/in/andikadwikid/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
-    <a href="https://github.com/andikadwikid" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=violet"/> 
-    </a>
+<!--     <a href="https://github.com/andikadwikid" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=violet"/>  -->
+<!--     </a> -->
     
-</span>
+<!-- </span> -->
 
 <span>
 
