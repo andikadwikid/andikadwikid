@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andikadwikid&label=Profile%20views&color=0e75b6&style=flat" alt="andikadwikid" /> </p>
 <p>I am a programmer proficient in php and javascript. I started learning coding when I was 18 years old. I have experience using php framework (Laravel) and Express Js. I'm looking for an experience that can develop my IT background and skills.</p>
 
-- 🌱 I’m currently learning **Laravel and React Js**
+- 🌱 I’m currently learning **Laravel, Express Js and React Js**
 
 
 📫 **How to reach me:**
