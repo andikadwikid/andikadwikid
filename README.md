@@ -4,7 +4,7 @@
 </header> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andikadwikid&label=Profile%20views&color=0e75b6&style=flat" alt="andikadwikid" /> </p>
-<p>💻| Passionate coder ☕| Coffee enthusiast 🚀| Excited about the endless possibilities in tech. Turning lines of code into innovations.</p>
+<p>💻| Passionate coder <br> ☕| Coffee enthusiast <br> 🚀| Excited about the endless possibilities in tech. Turning lines of code into innovations.</p>
 
 - 🌱 I’m currently learning **Go-lang**
 
